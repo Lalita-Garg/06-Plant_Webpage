@@ -13,7 +13,7 @@ This Project is a Simple Static Non-Responsive webpage created by using just HTM
 
 ## Preview |     [Live Link]()
 ***
-![ScreenShot](./screenShot.PNG)
+![ScreenShot](./screenshot.png)
 
 ## Technologies Used 
 ***
